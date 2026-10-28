@@ -1,7 +1,5 @@
 # AWAS - Always Walking And Safe
 
-![Preview](./screenshoots/preview.png)
-
 ## Links
 - **Figma Prototype**: [View Interactive Prototype](https://www.figma.com/proto/cjHyvPY0fDPUx4mWoR0VNS/LOMBA-UI-UX?node-id=1-2&t=TV73cfoPXysihlDG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 - **Figma File**: [View Design File](https://www.figma.com/design/cjHyvPY0fDPUx4mWoR0VNS/LOMBA-UI-UX)
@@ -180,7 +178,6 @@ AWAS (Always Walking And Safe) is an integrated mobile application that aligns s
 ## Contact
 
 - **LinkedIn**: [Gwyneth Eunice W](https://www.linkedin.com/in/gwyneth-eunice-w-508322406/)
-- **GitHub**: [@ggwyniebtw](https://github.com/ggwyniebtw)
 
 ---
 
