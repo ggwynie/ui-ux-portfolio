@@ -47,12 +47,6 @@ Project ini dibuat untuk mengikuti lomba UI/UX design. Design ini mencakup full 
 <div align="center">
 
 ### Main Screens
-
-<img src="./screenshoots/screen-01.png" width="250" alt="Screen 1"/>
-<img src="./screenshoots/screen-02.png" width="250" alt="Screen 2"/>
-<img src="./screenshoots/screen-03.png" width="250" alt="Screen 3"/>
-
-<img src="./screenshoots/screen-04.png" width="250" alt="Screen 4"/>
 <img src="./screenshoots/screen-05.png" width="250" alt="Screen 5"/>
 <img src="./screenshoots/screen-06.png" width="250" alt="Screen 6"/>
 
