@@ -2,7 +2,7 @@
 
 Kumpulan project UI/UX design yang telah saya kerjakan, termasuk design competition, freelance projects, dan personal projects.
 
-## 📂 Projects
+## Projects
 
 ### 1. LOMBA UI/UX
 Prototype design untuk lomba UI/UX design
@@ -15,18 +15,8 @@ Prototype design untuk lomba UI/UX design
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 - **Design Tools**: Figma
 - **Skills**: UI Design, UX Research, Prototyping, User Flow, Wireframing
 
-## 📫 Contact
-
-Untuk diskusi project atau kolaborasi, silakan hubungi saya melalui:
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
-
----
-
-⭐ **Star this repo** jika kamu suka dengan design saya!
