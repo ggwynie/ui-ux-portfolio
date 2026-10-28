@@ -10,7 +10,7 @@ Prototype design untuk lomba UI/UX design
 - **Type**: Competition Project
 - **Tool**: Figma
 - **Status**: Completed
-- [View Full Details](./lomba-ui-ux/info.md)
+  
 - [View Figma Prototype](https://www.figma.com/proto/cjHyvPY0fDPUx4mWoR0VNS/LOMBA-UI-UX?node-id=1-3&t=8nqaUL84AU13NdR8-1)
 
 ---
