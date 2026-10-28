@@ -1,4 +1,4 @@
-# LOMBA UI/UX - Design Competition Project
+# AWAS - Always Walking And Safe
 
 ![Preview](./screenshoots/preview.png)
 
@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-Project ini dibuat untuk mengikuti lomba UI/UX design. Design ini mencakup full user flow dari aplikasi/website dengan fokus pada user experience dan visual design yang clean dan modern.
+This project was created for a UI/UX design competition. The design encompasses a complete user flow for a mobile application focused on pedestrian safety, sustainable living, and civic engagement, with an emphasis on clean and modern visual design.
 
 **Collaboration**: This project was created in collaboration with Corinthia Angie.
 
@@ -23,15 +23,15 @@ Project ini dibuat untuk mengikuti lomba UI/UX design. Design ini mencakup full 
 
 ## Problem Statement
 
-Pejalan kaki di area perkotaan menghadapi tantangan besar terkait:
+Urban pedestrians face significant challenges regarding:
 
-- **Keamanan Rute**: Minimnya informasi jalur aman dari tindak kejahatan dan infrastruktur yang rusak
-- **Infrastruktur Buruk**: Trotoar rusak, lampu jalan mati, dan fasilitas publik tidak terawat
-- **Sistem Pelaporan Tidak Efisien**: Alur birokrasi pelaporan kerusakan infrastruktur tidak transparan dan memakan waktu lama
-- **Kurangnya Keterlibatan Masyarakat**: Partisipasi warga dalam menjaga keberlanjutan lingkungan masih pasif
-- **Tanggap Darurat Lambat**: Sistem darurat konvensional memakan waktu saat panik dan tidak membagikan lokasi secara real-time
+- **Route Safety**: Lack of information about safe paths from crime and damaged infrastructure
+- **Poor Infrastructure**: Broken sidewalks, non-functioning street lights, and unmaintained public facilities
+- **Inefficient Reporting System**: Bureaucratic infrastructure damage reporting processes that are not transparent and time-consuming
+- **Low Community Engagement**: Passive citizen participation in maintaining environmental sustainability
+- **Slow Emergency Response**: Conventional emergency systems are time-consuming during panic situations and don't share real-time location
 
-Target pengguna utama adalah pejalan kaki perkotaan yang membutuhkan rute aman, pemerintah daerah yang memerlukan data kerusakan infrastruktur akurat, dan mitra lingkungan yang mengelola program daur ulang.
+The primary target users are urban pedestrians who need safe routes, local governments requiring accurate infrastructure damage data, and environmental partners managing recycling programs.
 
 ## What I Did
 
@@ -39,115 +39,115 @@ Target pengguna utama adalah pejalan kaki perkotaan yang membutuhkan rute aman, 
 - Conducted user research to understand user needs and pain points
 - Analyzed competitor apps to identify gaps and opportunities
 - Created user personas and journey maps
-- Identified key user goals and frustrations
+- Identified key user goals and frustrations related to pedestrian safety
 
 ### Design Solution
-- Designed intuitive user interface with focus on usability
+- Designed intuitive user interface with focus on emergency accessibility
 - Created consistent design system with reusable components
-- Developed information architecture for easy navigation
-- Ensured responsive design for multiple screen sizes
+- Developed information architecture for easy navigation across safety, reporting, and gamification features
+- Ensured responsive design for multiple screen sizes and quick access to critical features
 
 ### Prototyping & Testing
-- Built interactive prototype in Figma
+- Built interactive prototype in Figma with real-time simulation
 - Conducted usability testing with potential users
-- Iterated design based on feedback
-- Refined user flows for better experience
+- Iterated design based on feedback, especially for emergency features
+- Refined user flows for better experience in critical situations
 
 ## Design Process
 
 ### 1. Research & Analysis
-- User interviews and surveys
-- Competitor analysis
-- Market research
-- Problem identification and validation
+- User interviews and surveys with urban pedestrians
+- Competitor analysis of safety and civic engagement apps
+- Market research on gamification and sustainable living platforms
+- Problem identification and validation with stakeholders
 
 ### 2. Ideation & Wireframing
-- Brainstorming sessions
-- User flow mapping
-- Low-fidelity wireframes
-- Information architecture design
+- Brainstorming sessions with collaborative team
+- User flow mapping for emergency scenarios and daily interactions
+- Low-fidelity wireframes focusing on accessibility
+- Information architecture design for multi-feature platform
 
 ### 3. Visual Design
-- Color palette selection based on brand identity
-- Typography hierarchy and choices
-- Component library creation
-- UI consistency across all screens
+- Color palette selection: Slate Blue & Coral Red for high contrast and urgency
+- Typography hierarchy using Quicksand for modern, friendly feel
+- Component library creation for consistent design system
+- UI consistency across all screens (Discover, Maps, Safety, AR Camera)
 
 ### 4. Prototyping & Testing
-- Interactive prototype creation in Figma
-- User flow testing with real users
-- Feedback collection and analysis
-- Design iteration and refinement
+- Interactive prototype creation in Figma with AR simulation
+- User flow testing with real users in emergency scenarios
+- Feedback collection and analysis from diverse user groups
+- Design iteration and refinement based on usability findings
 
 ## Solution
 
-AWAS (Always Walking And Safe) adalah aplikasi mobile terintegrasi yang menyelaraskan kebutuhan keamanan, pelaporan publik (G2C), dan gamifikasi gaya hidup berkelanjutan untuk mendukung SDG 11, 12, dan 13.
+AWAS (Always Walking And Safe) is an integrated mobile application that aligns security needs, public reporting (G2C), and sustainable lifestyle gamification to support SDG 11, 12, and 13.
 
-**Solusi yang Ditawarkan:**
+**Solution Offered:**
 
-- **Sistem Keamanan Real-Time**: Tombol SOS darurat dengan pengiriman lokasi instan via WebSocket, fitur Fake Call untuk distraksi, dan pencarian Hero Nearby (relawan terdekat)
-- **Pelaporan Terstruktur**: Portal G2C dengan geotagging otomatis yang langsung terhubung ke dashboard pemerintah kota
-- **Navigasi AR Interaktif**: AWAS Lens menggunakan Augmented Reality untuk proyeksi rute aman secara visual real-time
-- **Gamifikasi Lingkungan**: Sistem Green Points untuk reward daur ulang sampah, step tracker, eco-quiz, dan pemetaan Eco-Spots
+- **Real-Time Security System**: Emergency SOS button with instant location transmission via WebSocket, Fake Call feature for distraction, and Hero Nearby search for closest volunteers
+- **Structured Reporting**: G2C portal with automatic geotagging directly connected to city government dashboard
+- **Interactive AR Navigation**: AWAS Lens uses Augmented Reality for visual real-time safe route projection
+- **Environmental Gamification**: Green Points system for recycling rewards, step tracker, eco-quiz, and Eco-Spots mapping
 
 **Value Proposition:**
-- Mengurangi tingkat kecemasan pejalan kaki di ruang publik
-- Mempercepat penyelesaian laporan perbaikan fasilitas kota
-- Meningkatkan partisipasi warga dalam ekosistem lingkungan berkelanjutan
-- Menyediakan data infrastruktur terstruktur dengan koordinat presisi tinggi
+- Reduce anxiety levels of pedestrians in public spaces
+- Accelerate completion of city facility repair reports
+- Increase citizen participation in sustainable environmental ecosystems
+- Provide structured infrastructure data with high-precision coordinates
 
 ## Key Features
 
 1. **Safety Center (Guard Center)**
-   - SOS Button dengan transmisi lokasi real-time tanpa jeda
-   - Fake Call untuk simulasi panggilan pengalih saat terancam
-   - Hero Nearby untuk mencari relawan terdekat dalam radius lokasi
-   - Manajemen kontak darurat terenkripsi
+   - SOS Button with real-time location transmission without delay
+   - Fake Call for call simulation when feeling threatened
+   - Hero Nearby to find closest volunteers within location radius
+   - Encrypted emergency contact management
 
 2. **Live Report (G2C Portal)**
-   - Pelaporan infrastruktur rusak dengan geotagging otomatis
-   - Upload foto bukti langsung dari kamera (anti-spam)
-   - Dashboard tracking status laporan transparan
-   - Integrasi langsung ke sistem pemerintah kota
+   - Infrastructure damage reporting with automatic geotagging
+   - Photo evidence upload directly from camera (anti-spam)
+   - Transparent report status tracking dashboard
+   - Direct integration with city government system
 
-3. **Discover (Gamifikasi)**
-   - Step Tracker untuk pencatatan langkah kaki harian
-   - Green Points reward system untuk aktivitas berkelanjutan
-   - Eco-Quiz interaktif untuk edukasi lingkungan
-   - Pemetaan Eco-Spots (Bank Sampah, UMKM ramah lingkungan)
-   - Quest system dan donation feature
+3. **Discover (Gamification)**
+   - Step Tracker for daily footstep recording
+   - Green Points reward system for sustainable activities
+   - Interactive Eco-Quiz for environmental education
+   - Eco-Spots mapping (Recycling Banks, eco-friendly SMEs)
+   - Quest system and donation features
 
 4. **AWAS Lens (AR Camera)**
-   - Navigasi augmented reality dengan overlay petunjuk arah visual
-   - Penanda zona bahaya dan zona aman real-time
-   - Visualisasi lokasi Eco-Spot terdekat
-   - Informasi kondisi jalan dan cuaca
+   - Augmented reality navigation with visual direction overlay
+   - Real-time danger zone and safe zone markers
+   - Visualization of nearest Eco-Spot locations
+   - Road condition and weather information
 
 5. **Impact Center**
-   - Profil personal dengan badge pencapaian
-   - Histori kontribusi lingkungan
-   - Loyalty card digital (Bronze/Silver/Gold tier)
-   - Statistik dampak ekologis personal
+   - Personal profile with achievement badges
+   - Environmental contribution history
+   - Digital loyalty card (Bronze/Silver/Gold tier)
+   - Personal ecological impact statistics
 
 ## Potential Improvements
 
 ### Short-term
-- **Widget Darurat Lock Screen**: Akses kilat SOS dan Fake Call tanpa unlock perangkat
-- **Offline Mode Enhancement**: Sinkronisasi data otomatis saat koneksi kembali tersedia
-- **Dark Mode**: Tema gelap untuk penggunaan malam hari dan hemat baterai
-- **Multi-language Support**: Ekspansi ke bahasa daerah untuk inklusivitas lebih luas
+- **Lock Screen Emergency Widget**: Quick SOS and Fake Call access without unlocking device
+- **Offline Mode Enhancement**: Automatic data synchronization when connection is restored
+- **Dark Mode**: Dark theme for nighttime use and battery saving
+- **Multi-language Support**: Expansion to regional languages for broader inclusivity
 
 ### Long-term
-- **AI Computer Vision**: Deteksi otomatis kerusakan jalan via kamera tanpa input manual
-- **Predictive Analytics**: Prediksi zona rawan kejahatan berdasarkan data historis
-- **Smart Routing Algorithm**: Optimasi rute berdasarkan preferensi (teraman/tercepat/paling hijau)
-- **API Donasi Nasional**: Konversi Green Points menjadi aksi penanaman pohon fisik
+- **AI Computer Vision**: Automatic road damage detection via camera without manual input
+- **Predictive Analytics**: Crime-prone zone prediction based on historical data
+- **Smart Routing Algorithm**: Route optimization based on preferences (safest/fastest/greenest)
+- **National Donation API**: Green Points conversion to physical tree planting actions
 
 ### Based on Architecture & Testing
-- **Multi-region Cloud Deployment**: Auto-failover untuk menjaga uptime 99.9% saat darurat
-- **Enhanced Spam Detection**: Algoritma ML untuk filter laporan palsu lebih akurat
-- **Voice Command Integration**: Aktivasi SOS dengan perintah suara hands-free
-- **Community Moderation**: Sistem voting dan verifikasi laporan oleh komunitas lokal
+- **Multi-region Cloud Deployment**: Auto-failover to maintain 99.9% uptime during emergencies
+- **Enhanced Spam Detection**: ML algorithm for more accurate false report filtering
+- **Voice Command Integration**: Hands-free SOS activation with voice commands
+- **Community Moderation**: Voting system and report verification by local community
 
 ## Screenshots
 
@@ -155,11 +155,6 @@ AWAS (Always Walking And Safe) adalah aplikasi mobile terintegrasi yang menyelar
 
 ### Main Screens
 
-<img src="./screenshoots/screen-01.png" width="250" alt="Screen 1"/>
-<img src="./screenshoots/screen-02.png" width="250" alt="Screen 2"/>
-<img src="./screenshoots/screen-03.png" width="250" alt="Screen 3"/>
-
-<img src="./screenshoots/screen-04.png" width="250" alt="Screen 4"/>
 <img src="./screenshoots/screen-05.png" width="250" alt="Screen 5"/>
 <img src="./screenshoots/screen-06.png" width="250" alt="Screen 6"/>
 
