@@ -78,7 +78,6 @@ Project ini dibuat untuk mengikuti lomba UI/UX design. Design ini mencakup full 
 ## Contact
 
 - **LinkedIn**: [Gwyneth Eunice W](https://www.linkedin.com/in/gwyneth-eunice-w-508322406/)
-- **GitHub**: [@ggwyniebtw](https://github.com/ggwyniebtw)
 
 ---
 
