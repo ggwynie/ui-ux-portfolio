@@ -1,7 +1,5 @@
 # LOMBA UI/UX - Design Competition Project
 
-![Preview](./screenshoots/preview.png)
-
 ## Links
 - **Figma Prototype**: [View Interactive Prototype](https://www.figma.com/proto/cjHyvPY0fDPUx4mWoR0VNS/LOMBA-UI-UX?node-id=1-2&t=TV73cfoPXysihlDG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 - **Figma File**: [View Design File](https://www.figma.com/design/cjHyvPY0fDPUx4mWoR0VNS/LOMBA-UI-UX)
